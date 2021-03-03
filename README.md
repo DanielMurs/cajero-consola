@@ -1,6 +1,11 @@
-# Run app
+#Cajero en Consola
 
+### Instalar dependencias
 ~~~
- 1. npm install
- 2. npm start
+ > npm install
+~~~
+
+### Correr app
+~~~
+ > npm start
 ~~~
