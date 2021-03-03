@@ -1,4 +1,4 @@
-#Cajero en Consola
+# Cajero en Consola
 
 ### Instalar dependencias
 ~~~
