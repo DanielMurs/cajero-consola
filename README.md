@@ -1,5 +1,4 @@
 # Run app
-===
 
 ~~~
  1. npm install
